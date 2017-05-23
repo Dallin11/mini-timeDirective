@@ -1,3 +1,3 @@
-angular.module("app").controller("mainCtrl", function(){
-    
+angular.module("timeApp").controller("mainCtrl", function($scope){
+$scope.name = "Dallin Anderson"
 })
